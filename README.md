@@ -1,2 +1,2 @@
-# YANDEX
+# Yandex
 Yandex stuff...

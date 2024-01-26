@@ -162,3 +162,11 @@ cython_debug/
 NeuroSwipe/data
 NeuroSwipe/additional_data
 NeuroSwipe/keyboard_start
+
+# Ignore all files without extension
+*
+!*.*
+!*/
+
+# Others
+.vscode
